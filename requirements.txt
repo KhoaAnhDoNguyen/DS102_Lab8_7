@@ -1,3 +1,4 @@
-pickle
-PIL
+numpy
+pandas
+streamlit
 scikit-learn
